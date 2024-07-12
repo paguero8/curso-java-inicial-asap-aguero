@@ -1,6 +1,6 @@
 package ejercicios_clase2;
 
-import ar.edu.ort.p1.util.Consola;
+import com.github.sanchezih.util.io.Consola;
 
 /**
 * Programa que muestra los N primeros numeros de la serie de Fibonacci. 

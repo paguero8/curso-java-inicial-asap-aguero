@@ -1,6 +1,6 @@
 package ejercicios_clase2;
 
-import ar.edu.ort.p1.util.Consola;
+import com.github.sanchezih.util.io.Consola;
 
 /**
  * El programa leera por teclado un numero entero positivo y calculara la suma

@@ -1,6 +1,6 @@
 package ejercicios;
 
-import ar.edu.ort.p1.util.Consola;
+import com.github.sanchezih.util.io.Consola;
 
 /**
 * El programa lee por teclado una calificacion numerica entre 0 y 10 y muestra por pantalla 

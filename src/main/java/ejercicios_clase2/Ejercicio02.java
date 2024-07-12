@@ -1,6 +1,6 @@
 package ejercicios_clase2;
 
-import ar.edu.ort.p1.util.Consola;
+import com.github.sanchezih.util.io.Consola;
 
 /**
 * Comprobar si dos numeros son amigos. Dos numeros enteros positivos A y B 

@@ -1,6 +1,6 @@
 package ejercicios;
 
-import ar.edu.ort.p1.util.Consola;
+import com.github.sanchezih.util.io.Consola;
 
 /**
  * Programa que comprueba si un anio es bisiesto. 
