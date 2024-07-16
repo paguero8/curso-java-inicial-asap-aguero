@@ -5,6 +5,8 @@ package ejercicios_clase4;
  * Programa que genera un array de 8 enteros aleatorios entre 1 y 10, lo ordena utilizando el
  * algoritmo de ordenamiento de burbuja y lo muestra.
  * 
+ * @author paguero
+ * 
  */
 
 public class Ejercicio02 {
